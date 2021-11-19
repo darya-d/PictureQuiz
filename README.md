@@ -1,2 +1,2 @@
 # PictureQuiz
-Mobile Friendly Picture Quiz Using HTML, CSS and JS
+Mobile friendly Picture Quiz using HTML, CSS and JS
